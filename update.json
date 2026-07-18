@@ -2,5 +2,5 @@
   "version_code": 10,
   "update_url": "https://your-download-link.com/app.apk",
   "is_forced": true,
-  "message": "নতুন আপডেট এসেছে, দয়া করে অ্যাপটি আপডেট করুন।"
+  "message": "A new update is available. Please update the app"
 }
