@@ -1,6 +1,6 @@
 {
   "version_code": 10,
-  "update_url": "https://your-download-link.com/app.apk",
+  "update_url": " ",
   "is_forced": true,
   "message": "A new update is available. Please update the app"
 }
