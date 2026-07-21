@@ -1,6 +1,6 @@
 {
   "version_code": 7,
-  "update_url": "https://github.com/kolombomondol/App-Update-Config/releases/download/untagged-3b464399c1cba3fb28a1/app-release.apk",
+  "update_url": "https://github.com/kolombomondol/App-Update-Config/releases/download/7/app-release.apk",
   "is_forced": true,
   "message": "A new update is available. Please update the app"
 }
