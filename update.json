@@ -1,5 +1,5 @@
 {
-  "version_code": 1,
+  "version_code": 2,
   "update_url": "https://github.com/kolombomondol/App-Update-Config/releases/download/7/app-release.apk",
   "is_forced": true,
   "message": "A new update is available. Please update the app"
